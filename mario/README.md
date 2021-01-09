@@ -19,3 +19,5 @@ The second analysis provides a visual of the total international flight revenue 
 
 The third analysis calculates an average for quarterly revenue per year. This was done to show the difference in average yearly revenue over the past five years, highlighting the drop for 2020.
 
+![Net_Income_Averages](https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Net_Income_Averages.PNG)
+
