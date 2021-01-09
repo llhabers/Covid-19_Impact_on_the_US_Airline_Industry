@@ -10,9 +10,11 @@ To develop an answer, I pulled data from the Bureau of Transportation Statistics
 
 Results:
 The first analysis provides a visual of the total domestic flight revenue over the past 5 years. The visual illustrates the drastic loss in annual revenue. 
+
 ![Net_Income_Domestic](https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Net_Income_Domestic.png)
 
 The second analysis provides a visual of the total international flight revenue over the past 5 years. The visual demonstrates an increase in international flights, uncommon in the years prior to the pandemic outbreak.
+
 ![Net_Income_International](https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Net_Income_International.png)
 
 The third analysis calculates an average for quarterly revenue per year. This was done to show the difference in average yearly revenue over the past five years, highlighting the drop for 2020.
