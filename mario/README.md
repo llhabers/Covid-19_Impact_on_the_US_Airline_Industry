@@ -2,6 +2,8 @@ Team Analytics Alliance
 Mario's Project Results and Observations
 How has the coronavirus affected the number of domestic flights between 2019 and 2020?
 
+Link to the original data: https://www.transtats.bts.gov/Data_Elements_Financial.aspx?Data=6
+
 Task:
 How were flight companies affected by changes in travel/travel restrictions?
 
