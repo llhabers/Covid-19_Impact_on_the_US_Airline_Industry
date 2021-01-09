@@ -1,16 +1,19 @@
 Team Analytics Alliance
 Mario's Project Results and Observations
 How has the coronavirus affected the number of domestic flights between 2019 and 2020?
-Website where LaTisha pulled Airline Data for 2019 and 2020: - https://www.bts.gov/topics/airlines-and-airports-0
-Situation:
-Covid-19 has made a devastating impact on the world. In the US alone, over 22 million Americans have tested positive for Covid-19. When looking into the travel industry, “the Covid-19 Pandemic has resulted in over $500 billion in cumulative losses for the U.S travel economy, equating to a daily loss of approximately $1.75 billion for the past nine-and-a-half months.” - U.S. Travel Association. Team Analytics Alliance decided to look at into the airline industry to see Covid-19 impact.
 
 Task:
-I wanted to compare the number of domestic flights taken between 2019 and 2020. I posed the question, how has the coronavirus affected the number of domestic flights between 2019 and 2020?
+How were flight companies affected by changes in travel/travel restrictions?
 
 Action:
-In order to answer this question, I research which database should I look into to get accurate data. I came across the website “Bureau of Transportation Statistics.” I was able to find CSV files that has the number of domestic flights from 2019 and 2020. I was able to clean and manipulate the data to extract the information I needed to compare 2019 domestic flight data against 2020 domestic flight data. I removed columns that wasn’t necessary for my findings, change the name of columns and looked at the Airlines who had over 130,000 flights in 2019.
+To develop an answer, I pulled data from the Bureau of Transportation Statistics covering Net Income for all U.S carriers across all regions. The data provides quarterly revenue from 2000-2020. For this question I limited the data to the past 5 years. This provides a short term overview of revenue prior to the virus outbreak and the effects it had on U.S. airline revenue during 2020.
 
 Results:
-After cleaning and manipulate the data, I was able to create two bar graphs. The first bar graph represents the percentage change in flight between Airlines from 2019 and 2020. The second bar graphs represent the airline companies and the number of flights (in millions) that took place. The blue graph represents total number of flights for that airline company in 2019 and the orange bar represents the total number of airline flights for the same company 2020.
+The first analysis provides a visual of the total domestic flight revenue over the past 5 years. The visual illustrates the drastic loss in annual revenue. 
 ![Net_Income_Domestic](https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Net_Income_Domestic.png)
+
+The second analysis provides a visual of the total international flight revenue over the past 5 years. The visual demonstrates an increase in international flights, uncommon in the years prior to the pandemic outbreak.
+![Net_Income_International](https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Net_Income_International.png)
+
+The third analysis calculates an average for quarterly revenue per year. This was done to show the difference in average yearly revenue over the past five years, highlighting the drop for 2020.
+
