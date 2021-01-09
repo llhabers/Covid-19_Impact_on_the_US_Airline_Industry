@@ -18,8 +18,8 @@ In order to answer this question, I research which database should I look into t
 ##### Results:
 After cleaning and manipulate the data, I was able to create two bar graphs. The first bar graph represents the percentage change in flight between Airlines from 2019 and 2020. The second bar graphs represent the airline companies and the number of flights (in millions) that took place. The blue graph represents total number of flights for that airline company in 2019 and the orange bar represents the total number of airline flights for the same company 2020.
 
-![](Percentage_Change_in_Flights_between_2019_and_2020.png)
-![](Top_Airline_Flights_19_20.png)
+https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Percentage_Change_in_Flights_between_2019_and_2020.png
+https://github.com/llhabers/data-analysis-project-1/blob/main/output_data/Top_Airline_Flights_19_20.png
 
 
 ##### Observation:
