@@ -22,3 +22,5 @@ Each question is hyperlinked to the full report and analysis respectively, as we
 - [Resources](https://github.com/llhabers/data-analysis-project-1/tree/main/Resources) includes all the datasets used for our analysis. 
 - [AnalyticsAlliance_Final_Code](https://github.com/llhabers/data-analysis-project-1/blob/main/AnalyticsAlliance_Final_Code.ipynb) will have the final merged code for all the questions answered.
 
+## Final Presentation
+[A link to our final presentation can be found here.](https://docs.google.com/presentation/d/1p6zjLjsHnz9Ij4uGs3lVm_dh26worBrQeRsTKj_Mj2I/edit#slide=id.gb4a1119f82_0_145)
