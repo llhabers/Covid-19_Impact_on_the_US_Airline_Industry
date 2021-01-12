@@ -9,11 +9,11 @@ Covid-19 has made a devastating impact on the world. In the US alone, over 22 mi
 Team Analytics Alliance decided to look at the impact of COVID-19 on the airline industry, comparing 2019 to 2020. 
 
 ## Questions We Researched:
+- [Which countries have the most air traffic?](https://github.com/llhabers/data-analysis-project-1/tree/main/ivana)
 - [How has the coronavirus affected the volume of passengers between 2019 and 2020?](https://github.com/llhabers/data-analysis-project-1/tree/main/jini)
 - [How has the coronavirus affected the number of domestic flights between 2019 and 2020?](https://github.com/llhabers/data-analysis-project-1/tree/main/latisha)
 - [What was the financial impact on the airline industry in terms of revenue?](https://github.com/llhabers/data-analysis-project-1/tree/main/mario)
 - [What was the impact on airline fares?](https://github.com/llhabers/data-analysis-project-1/tree/main/samori)
-- [Which airports were most busy?](https://github.com/llhabers/data-analysis-project-1/tree/main/ivana)
 
 Each question is hyperlinked to the full report and analysis respectively, as well as the individual jupyter notebooks. 
 
