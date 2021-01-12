@@ -25,11 +25,11 @@ After cleaning and manipulate the data, I was able to create two bar graphs. The
 •	United Airlines had the highest percentage change in the number of flights between 2019 and 2020. (65.98%)
 •	United Parcel Service (UPS) had the lowest percentage change in flights between 2019 and 2020. (16.90%)
 •	FedEx and UPS were the only two mail service that was a part of the top companies with a high number of domestic flights.
-•	All top airline companies experience an over 45% negative percentage change in the total number of domestic flights between 2019 and 2020 with the exception of UPS.
+•	All top airline companies experience over 45% negative percentage change in the total number of domestic flights between 2019 and 2020 with the exception of UPS.
 •	Southwest, Delta and American Airlines were the only companies to have over 1,000,000 domestic flights in 2019.
 •	In 2020, all top airlines had less than 1,000,000 domestic flights.
 •	The total number of flights taken in 2019 is 9771281.
-•	The total number of flights taken in 2019 is 4577349.
+•	The total number of flights taken in 2020 is 4577349.
 •	The change in the number of flights from top airlines from 2019 to 2020 is -53.0%. In other words, in 2020, the number of flights from around the world decline over 50%.
 
 ##### Challenges:
